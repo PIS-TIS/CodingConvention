@@ -27,7 +27,7 @@
 
 ![image](https://github.com/user-attachments/assets/a7e1f1f0-efe5-4eef-961a-4cf5a031893f "예시")
 
-
+---
 #### 가독성을 위해 불필요한 attribute의 사용은 지양합니다.
 private/internal,
 ```
