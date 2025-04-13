@@ -25,7 +25,7 @@
 > 예외로 const 변수는 전체를 대문자로 표시하며, 띄어쓰기는 언더바( _ )로 구분합니다.
 > 이는 특별한 상황에서 배열을 const식으로 사용하고 싶은 경우에도 유효합니다.
 
-![image](https://github.com/user-attachments/assets/a7e1f1f0-efe5-4eef-961a-4cf5a031893f)
+![image](https://github.com/user-attachments/assets/a7e1f1f0-efe5-4eef-961a-4cf5a031893f "예시")
 
 
 
