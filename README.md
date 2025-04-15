@@ -62,6 +62,6 @@
 ![image](https://github.com/user-attachments/assets/56aa9944-8d5f-4ce2-80b6-b918313619d0 "생략 가능한 띄어쓰기와 괄호 생략")
 ![image](https://github.com/user-attachments/assets/d7a4da4d-0155-446d-be84-c7d55a25b1ac "가독성을 위한 추가 작업")
 >	생략가능한 띄어쓰기와 괄호 생략	/	 가독성을 위한 추가 작업  
-> 비고: 몬스터 헌터 데미지 계산 공식 일부 구현  
+> *비고: 몬스터 헌터 데미지 계산 공식 일부 구현*  
 
 --- 
