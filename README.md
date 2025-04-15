@@ -16,7 +16,7 @@
 
 ## 규칙
 ### 몇가지 예외를 제외하고, 모든 변수명은 캐멀, 그 외 모든 함수/클래스/열거형/구조/네임스페이스 등은 파스칼 케이스로 작성합니다
-> 접근성인 public과 private을 구분짓는 요소는, 말 그대로 `public`과 `private` attribute 여야 합니다.  
+> 접근성인 `public`과 `private`을 구분짓는 요소는, 말 그대로 `public`과 `private` attribute 여야 합니다.  
 > 이를 대소문자로 구분하는 것은 위험할 뿐 아니라,  
 > 부모-자식 관계의 `protected`와, 어셈블리간의 `internal` attribute를 표현하는 방식에서 모호성이 존재합니다.  
 >     *internal 붙었다고 클래스를 캐멀로 적을 수는 없잖아요* :)
