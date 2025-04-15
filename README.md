@@ -34,7 +34,7 @@
 > (클래스의 경우 조금 다른데, 어쨌든 역할은 비슷해 굳이 다루지 않습니다.)  
 > 이를 활용하여, 불필요한 키워드의 사용을 줄이고, 유니티 기본 제공 함수들과 통일성을 가지게 하며, 변수들이 여럿 나열되어 있을 경우에도 가독성을 유지합니다.  
 
-![image](https://github.com/user-attachments/assets/9192888e-2672-4e06-99e6-47f836e78c6a "생략 X") ![image](https://github.com/user-attachments/assets/3ec8435a-ff95-4ffd-8633-9eb5a4938185 "생략 O")
+![image](https://github.com/user-attachments/assets/9192888e-2672-4e06-99e6-47f836e78c6a "생략 X"){: width="50%"} ![image](https://github.com/user-attachments/assets/3ec8435a-ff95-4ffd-8633-9eb5a4938185 "생략 O"){: width="50%"}
 
 
 ### 변수는 키워드별로 선언하지 않고, 지엽적으로 묶어 선언합니다.
