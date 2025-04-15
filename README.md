@@ -29,13 +29,15 @@
 ![image](https://github.com/user-attachments/assets/a7e1f1f0-efe5-4eef-961a-4cf5a031893f "예시")
 
 ---
+
 ### 가독성을 위해 불필요한 키워드의 사용은 지양합니다.
 > 선언문 앞에 별도의 키워드를 지정하지 않은 경우 대부분 private으로 지정됩니다.
 > (클래스의 경우 조금 다른데, 어쨌든 역할은 비슷해 굳이 다루지 않습니다.)  
 > 이를 활용하여, 불필요한 키워드의 사용을 줄이고, 유니티 기본 제공 함수들과 통일성을 가지게 하며, 변수들이 여럿 나열되어 있을 경우에도 가독성을 유지합니다.  
 
-![image](https://github.com/user-attachments/assets/9192888e-2672-4e06-99e6-47f836e78c6a "생략 X"){: width="50%"} ![image](https://github.com/user-attachments/assets/3ec8435a-ff95-4ffd-8633-9eb5a4938185 "생략 O"){: width="50%"}
+![image](https://github.com/user-attachments/assets/9192888e-2672-4e06-99e6-47f836e78c6a "생략 X") ![image](https://github.com/user-attachments/assets/3ec8435a-ff95-4ffd-8633-9eb5a4938185 "생략 O")
 
+---
 
 ### 변수는 키워드별로 선언하지 않고, 지엽적으로 묶어 선언합니다.
 > 변수들을 키워드별로 묶어 선언하는 것은 얼핏 보기에는 정돈되어 보일 수 있으나,
@@ -47,7 +49,8 @@
 ![image](https://github.com/user-attachments/assets/7a28dea0-129b-4f65-bc56-d1fdbafab7ba "종류별 선언") ![image](https://github.com/user-attachments/assets/da51a90c-456e-4fa6-bbf7-36c339a25722 "기능별 선언")
 
 
+##### region을 사용하고 모든 변수가 오직 그 안에서만 사용된다는 제한 하에서만, 변수를 region 내에 선언하는 것을 허용합니다.
+> 변수가 코드를 overflow 하는 것을 방지하기 위함이며, 가장 이상적인 것은 애초에 코드 내에서 region을 사용하면서까지 변수를 숨길만큼 코드를 복잡하게 만들지 않는 것입니다.
+![image](https://github.com/user-attachments/assets/8a799a26-6d58-43d4-9f59-5ce34225ecb1 "예시")
 
 
-
-###### region을 사용하고 모든 변수가 오직 그 안에서만 사용된다는 제한 하에서, 변수를 region 내에 선언하는 것을 허용합니다. 
