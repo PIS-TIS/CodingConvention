@@ -60,6 +60,7 @@
 
 ### 가독성을 위한 불필요한 괄호, 띄어쓰기, Tab등의 문자를 허용합니다.
 ![image](https://github.com/user-attachments/assets/b0c05f2c-1da1-442b-8ef7-5b0b935e02b1 "생략 가능한 띄어쓰기와 괄호 생략")
-![image](https://github.com/user-attachments/assets/af46a7ad-ea59-4972-ba05-547bd82d5fb1 "가독성을 위한 추가 작업")
-> 출처: 몬스터 헌터 데미지 계산 공식 중 일부 구현
+![image](https://github.com/user-attachments/assets/8b1345eb-103a-499b-9883-04cd998f0822 "가독성을 위한 추가 작업")
+> 비고: 몬스터 헌터 데미지 계산 공식 일부 구현
 
+--- 
