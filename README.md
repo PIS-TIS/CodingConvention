@@ -36,7 +36,7 @@
 > 이를 활용하여 불필요한 키워드의 사용을 줄이고, 유니티 기본 제공 함수들과 통일성을 가지게 하며, 변수들이 여럿 나열되어 있을 경우에도 가독성을 유지합니다.  
 
 ![image](https://github.com/user-attachments/assets/9192888e-2672-4e06-99e6-47f836e78c6a "생략 X") ![image](https://github.com/user-attachments/assets/3ec8435a-ff95-4ffd-8633-9eb5a4938185 "생략 O")
-> 1. 생략 X, 2. 생략 O
+> 	생략 X    /    생략 O
 ---
 
 ### 변수는 키워드별로 선언하지 않고, 지엽적으로 묶어 선언합니다.
@@ -47,7 +47,7 @@
 > 따라서 변수들은 함께 사용되는 것들 끼리 묶어서 선언합니다.
 
 ![image](https://github.com/user-attachments/assets/7a28dea0-129b-4f65-bc56-d1fdbafab7ba "종류별 선언") ![image](https://github.com/user-attachments/assets/da51a90c-456e-4fa6-bbf7-36c339a25722 "기능별 선언")
-> 1. 종류별 선언, 2. 기능별 선언
+> 	종류별 선언	/	 기능별 선언
 
 ##### region을 사용하고 모든 변수가 오직 그 안에서만 사용된다는 제한 하에서만, 변수를 region 내에 선언하는 것을 허용합니다.
 > 이는 과하게 많은 변수가 코드를 overflow 하는 것을 방지하기 위함이며,  
@@ -61,7 +61,7 @@
 ### 가독성을 위한 불필요한 괄호, 띄어쓰기, Tab등의 문자를 허용합니다.
 ![image](https://github.com/user-attachments/assets/56aa9944-8d5f-4ce2-80b6-b918313619d0 "생략 가능한 띄어쓰기와 괄호 생략")
 ![image](https://github.com/user-attachments/assets/d7a4da4d-0155-446d-be84-c7d55a25b1ac "가독성을 위한 추가 작업")
-> 1. 생략가능한 띄어쓰기와 괄호 생략, 2. 가독성을 위한 추가 작업  
+>	생략가능한 띄어쓰기와 괄호 생략	/	 가독성을 위한 추가 작업  
 > 비고: 몬스터 헌터 데미지 계산 공식 일부 구현  
 
 --- 
