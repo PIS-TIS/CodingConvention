@@ -71,6 +71,6 @@
 ![image](https://github.com/user-attachments/assets/359b373b-30f7-438e-937a-5c7ba0aecfd3)
 
 ### 중괄호가 사용되는 부분에서, 이전 문자와 같은 열에 생성하거나, 그 다음 열에 생성하거나는 관여하지 않습니다.
-![image](https://github.com/user-attachments/assets/db6f17ba-b31d-4248-b906-0d5281ee0c03)
+![image](https://github.com/user-attachments/assets/1b8caf4d-c593-4117-bdf9-7811853e4154)
 
 ### 4-space와 tab character중 무엇을 사용하는지 관여하지 않습니다. (다만 space를 사용하는 경우 2나 8이 아닌 4-space의 사용을 강하게 권장합니다.)
